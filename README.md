@@ -71,7 +71,7 @@ To contribute:
 |  [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/US-CA-Santa-Clara/Deep-Learning-Software-Intern--Autonomous-Vehicles---Winter-2021_JR1933408-1) | Santa Clara, CA | Present | Deep Learning |
 |  [ATB Financial](https://apply.workable.com/atb-financial/j/6C9539DC7B/) | Vancouver, BC | Present | |
 |  [Gatik AI](https://jobs.lever.co/gatik/174edfee-82f7-4f4b-9fd4-fd8fb996f6a1) | Toronto, ON | Present | |
-|  [Clio](https://boards.greenhouse.io/goclio/jobs/566126) | Vancouver, BC | Present | 8 months only (No 4 month internships) | |
+|  [Clio](https://boards.greenhouse.io/goclio/jobs/566126) | Vancouver, BC | Closed | 8 months only (No 4 month internships) | |
 |  [Repl.it](https://jst.me/c6ze) | Remote | Present | |
 |  [Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2317781) | NYC | Present | | 
 |  [Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Winter-2021-Intern---Software-Engineer---Tableau_JR68902-1?source=LinkedIn_Jobs) | Vancouver, BC | Present | |
